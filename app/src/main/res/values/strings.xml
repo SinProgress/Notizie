@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notizie</string>
+    <string name="stringa_button_search">Cerca</string>
+    <string name="suggerimento_parola_chiave">inserisci parola chiave</string>
+    <string name="backimage_description">Show previous values</string>
+</resources>
+
